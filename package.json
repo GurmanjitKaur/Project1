@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "this is a test project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurmanjitKaur/Project1.git"
+  },
+  "author": "Gurmanjit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GurmanjitKaur/Project1/issues"
+  },
+  "homepage": "https://github.com/GurmanjitKaur/Project1#readme"
+}
